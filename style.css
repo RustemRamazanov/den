@@ -1,0 +1,14 @@
+.container{
+    text-align: center;
+    padding-top: 100px;  
+}
+
+img{
+    width: 200px;
+    height: 110px;
+}
+
+a{
+    font-size: 18px;
+    max-width: 50px;
+}
